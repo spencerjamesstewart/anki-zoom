@@ -1,0 +1,9 @@
+# Anki writes the user's config here, next to the add-on
+meta.json
+
+# Build artifacts
+*.ankiaddon
+
+# Python
+__pycache__/
+*.pyc
