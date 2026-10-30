@@ -7,4 +7,3 @@ meta.json
 # Python
 __pycache__/
 *.pyc
-.memory-updates
